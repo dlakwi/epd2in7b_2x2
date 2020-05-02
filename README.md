@@ -11,5 +11,5 @@ The board is the Lakduino Dwee 1284 Mini Pro - ATmega 1284P by Aptinex available
 
 To produce 15 colours, Bayer half-tone 2x2 pixels are used. See colours.h for the definitions and DrawAbsolutePixel() in epdpaint.cpp for the rendering.
 
-https://github.com/dlakwi/epd2in7b_2x2/blob/master/epd_bwr_2sm.jpg
+![image](https://github.com/dlakwi/epd2in7b_2x2/blob/master/epd_bwr_2sm.jpg)
 
